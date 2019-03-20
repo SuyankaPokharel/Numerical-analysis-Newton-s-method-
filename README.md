@@ -1,1 +1,2 @@
-# Numerical-analysis-Newton-s-method-
+# Numerical analysis-Newton's method
+This project contains way to find the better approximation of roots of a real valued function. It contians a simple way of solving equations numerically. The absolute and relative errors is calculated at the end after the eqaution is solved to know the efficiency of this method and how useful this technique can be in problem solving with linear approximation.  
